@@ -1,0 +1,10 @@
+{
+  "projectId": "dts-esports",
+  "appId": "1:441466077679:web:2acababfb550a34c9db61a",
+  "apiKey": "AIzaSyCi7-OHRuLmKeQWG11NZmSoJahnIuSQcq0",
+  "authDomain": "dts-esports.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "dts-esports.firebasestorage.app",
+  "messagingSenderId": "441466077679",
+  "measurementId": "G-X07ZJPQ54G"
+}
